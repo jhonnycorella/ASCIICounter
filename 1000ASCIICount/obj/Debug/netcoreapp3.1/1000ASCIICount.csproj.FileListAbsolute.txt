@@ -1,0 +1,34 @@
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.exe
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.csprojAssemblyReference.cache
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.AssemblyInfoInputs.cache
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.AssemblyInfo.cs
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.deps.json
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.runtimeconfig.json
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.runtimeconfig.dev.json
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.dll
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.pdb
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.csproj.CopyComplete
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.dll
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.pdb
+C:\Users\jhonn\source\repos\1000ASCIICount\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.genruntimeconfig.cache
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.exe
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.deps.json
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.runtimeconfig.json
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.runtimeconfig.dev.json
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.dll
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\1000ASCIICount.pdb
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.csprojAssemblyReference.cache
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.AssemblyInfoInputs.cache
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.AssemblyInfo.cs
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.csproj.CopyComplete
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.dll
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.pdb
+C:\Users\jhonn\Documents\Personal Repositories\ASCIICounter\1000ASCIICount\obj\Debug\netcoreapp3.1\1000ASCIICount.genruntimeconfig.cache
